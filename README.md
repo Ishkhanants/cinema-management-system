@@ -1,2 +1,2 @@
-# movie-theater-back
+# cinema-management-system
 Simple movie theater management console project including AOP
